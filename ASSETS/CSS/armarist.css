@@ -975,9 +975,9 @@ footer {
     .news-1,
     .news-2,
     .news-3 {
-        width: 100%;
-        max-width: 100%;
-        margin: 0 0 32px 0;
+        width: 50%;  
+        max-width: 520px;        
+        margin: 0 16px 32px 16px;
     }
 
     .news-3 {
